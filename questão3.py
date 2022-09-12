@@ -1,0 +1,10 @@
+n1 = 7
+p1 = 4
+n2 = 8
+p2 = 1
+n3 = 10
+p3 = 3
+somaN = n1 * p1 + n2 * p2 + n3 * p3
+somaP = p1 + p2 + p3
+media = somaN / somaP
+print( f"O resultado da média ponderada é = { media } " )
